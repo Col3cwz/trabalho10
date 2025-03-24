@@ -1,0 +1,46 @@
+h1{
+    color: purple;
+    background-color: black;
+    width: 200px;
+    text-align: center;
+    border: 10px;
+    border-style: groove;
+    border-color: aqua;
+  }
+  
+
+#sobre {
+    color: white;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+body {
+    background-color: red;
+
+
+}
+
+#fluzao {
+
+    width: 500px;
+    height: 500px;
+    border-width: 10px;
+    border: 20px;
+    border-style: double;
+    border-color: green;
+}
+
+#tabela {
+    display: flex;
+    background-color: black;
+    color: white;
+    border: 20px;
+    border-width: 10px;
+    border-color: purple;
+    border-style: groove;
+    width: 30%;
+}
